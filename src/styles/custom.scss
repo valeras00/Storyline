@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+@import "bootstrap/scss/functions";
+
+$primary: #ffffff;
+$secondary: #dfdfdf;
+
+$dark: #1f1f1f;
+
+@import "bootstrap/scss/variables";
+
+$font-family-base: 'Gentium Book Plus';
+
+$input-color: #fff;
+$input-bg: #4f4f4f;
+$input-border-color: transparent;
+$input-border-radius: 0;
+$input-focus-bg: $secondary;
+$input-focus-color: #000;
+$input-placeholder-color: #bcbcbc;
+$input-box-shadow: none;
+
+$input-hover-bg: #424242;
+$input-focus-bg: #424242;
+$input-hover-color: #fff;
+$input-focus-color: #fff;
+$input-focus-border-color: transparent;
+$input-focus-box-shadow: none;
+
+$btn-border-radius: 0;
+
+$breadcrumb-active-color: #fff;
+
+@import "bootstrap/scss/bootstrap";

@@ -1,0 +1,620 @@
+[
+    {
+        "id": 1,
+        "name": "Il buio oltre la siepe",
+        "author": "Harper Lee",
+        "genre": "Romanzo",
+        "year": "1960",
+        "rating": 4,
+        "readers": "26M",
+        "cover": "/images/books/il-buio-oltre-la-siepe.jpg",
+        "summary": "Il buio oltre la siepe racconta Scout Finch che cresce negli anni ’30 in Alabama, mentre suo padre Atticus difende Tom Robinson, un uomo nero accusato ingiustamente. Il romanzo esplora razzismo, ingiustizia e coraggio morale attraverso gli occhi dei bambini",
+        "publisher": "J.B. Lippincott & Co.",
+        "reviews":[
+            {
+                "author":"Pippo Baudo",
+                "text":"Bello, davvero molto bello",
+                "rating": 5
+            },
+            {
+                "author":"Britney Spears",
+                "text":"Mi è piaciuto ma ho delle critiche...",
+                "rating": 4
+            }
+        ],
+        "featured": true
+    },
+    {
+        "id": 2,
+        "name": "Il conte di Montecristo",
+        "author": "Alexandre Dumas",
+        "genre": "Storico",
+        "year": "1844",
+        "rating": 4,
+        "readers": "14M",
+        "cover": "/images/books/il-conte-di-m.jpg",
+        "summary": "La storia di Edmond Dantès, ingiustamente imprigionato, che dopo la fuga dalla prigione diventa il misterioso Conte di Montecristo e cerca vendetta.",
+        "publisher": "Pétion et Baudry",
+        "reviews": [
+            { "author": "Dante Alighieri", "text": "Un'avventura grandiosa e coinvolgente", "rating": 5 },
+            { "author": "Laura Pausini", "text": "Un po' lungo ma emozionante fino alla fine", "rating": 4 }
+        ],
+        "featured": false
+    },
+    {
+        "id": 3,
+        "name": "Harry Potter e i doni della morte",
+        "author": "J.K Rowling",
+        "genre":"Fantasy",
+        "year":"1997",
+        "rating": 3.5,
+        "readers":"59M",
+        "cover":"/images/books/hp-doni-della-morte.jpg",
+        "summary":"Il confronto finale con Voldemort è imminente, una grande battaglia è alle porte e Harry, con coraggio, compirà ciò che dev’essere fatto. Mai i perché sono stati così tanti e mai come in questo libro si ha la soddisfazione delle risposte. Ogni pezzo del puzzle torna al suo posto, gli enigmi si risolvono e, troppo presto, si arriva alla conclusione. Giunti all’ultima pagina si vorrà rileggere tutto daccapo, per chiudere il cerchio, per riscoprire tutti i segreti e i significati profondi, ma soprattutto per ritardare il più possibile il distacco dai meravigliosi personaggi che ci hanno accompagnato per così tanto tempo e che non hanno ancora smesso di incantarci.",
+        "publisher":"Mondolibri",
+        "reviews": [
+            { "author": "Chiara Ferragni", "text": "Un'avventura grandiosa e coinvolgente", "rating": 4 },
+            { "author": "Totò", "text": "Mi sembra un po' troppo bambinesco...", "rating": 2 }
+        ],
+        "featured": true
+    },
+    {
+        "id": 4,
+        "name": "La Donna in Bianco",
+        "author": "Wilkie Collins",
+        "genre":"Giallo",
+        "year":"1860",
+        "rating": 4,
+        "readers":"750K",
+        "cover":"/images/books/la-donna-in-bianco.jpg",
+        "summary":"Quale terribile segreto nasconde la misteriosa figura femminile che si aggira di notte per le buie strade di Londra? Questo è solo il primo di una serie di intrighi, apparizioni e sparizioni, delitti e scambi di identità che compongono la trama della Donna in bianco, tessuta con magistrale sapienza da Wilkie Collins. Nel 1860 Charles Dickens pubblicò il romanzo a puntate sulla sua rivista «All the Year Round» suscitando uno straordinario interesse nel pubblico, che seguì per un intero anno le vicende della sventurata Anne Catherick e quelle degli altri personaggi, descritti con impareggiabile abilità psicologica, come l'impavida Maria Halcombe, il coraggioso Walter Hartright e l'affascinante quanto ambiguo conte Fosco. È passato un secolo e mezzo e le cose non sono cambiate. Anche il lettore moderno più smaliziato non può che rimanere piacevolmente intrappolato negli ingranaggi di questa straordinaria macchina narrativa, che ha segnato per sempre la tradizione del mistery, facendo guadagnare al suo autore l'attributo di padre del poliziesco moderno. La donna in bianco è anche un musical realizzato da Andrew Lloyd Webber.",
+        "publisher":"Fazi",
+        "reviews": [
+            { "author": "Galileo", "text": "Bello ma non ho capito bene il finale, perde molto", "rating": 3 }
+        ],
+        "featured": true
+    },
+    {
+        "id": 5,
+        "name": "Piccole Donne",
+        "author": "Louisa May Alcott",
+        "genre":"Romanzo",
+        "year":"1868",
+        "rating":5,
+        "readers":"12M",
+        "cover":"/images/books/piccole-donne.jpg",
+        "summary":"Piccole donne è il capolavoro di Louisa May Alcott, il romanzo che l’ha resa celebre e che ha conosciuto innumerevoli versioni cinematografiche (tra le quali spicca quella con Susan Sarandon e Wynona Rider). Conosciamo la famiglia March in un momento critico: ha subito rovesci economici e il padre è stato chiamato a partecipare alla guerra di Secessione; così le quattro figlie e la mamma restano sole ad affrontare piccoli e grandi problemi. La capricciosa Amy, la vivace Meg, la delicata Beth e soprattutto la ribelle e impulsiva Jo compongono un quartetto in cui diverse generazioni di lettrici si sono identificate e si identificano. Un classico della letteratura giovanile, nel quale non è centrale l’attesa del principe azzurro ma una ricerca di valori morali, affetti solidi e sinceri e realizzazione personale, sia tra le gioie della serenità familiare, sia nell’espressione e nel riconoscimento del proprio talento.",
+        "publisher":"Newton Compton Editori",
+        "reviews": [
+            { "author": "Fabrizio de André", "text": "Mi sono commosso tanto. Sto ancora piangendo in questo momento", "rating": 5 },
+            { "author": "Emma Marrone", "text": "Mi sono sentita rappresentata", "rating": 5 }
+        ],
+        "featured": true
+    },
+    {
+        "id": 6,
+        "name": "Follia",
+        "author": "Patrick McGrath",
+        "genre":"Horror",
+        "year":"1996",
+        "rating": 3.4,
+        "readers":"370K",
+        "cover":"/images/books/follia.jpg",
+        "summary":"Una grande storia di amore e morte e della perversione dell'occhio clinico che la osserva. Dall'interno di un tetro manicomio criminale vittoriano uno psichiatra comincia a esporre il caso clinico più perturbante della sua carriera: la passione tra Stella Raphael, moglie di un altro psichiatra, e Edgar Stark, artista detenuto per uxoricidio. Alla fine del libro ci si troverà a decidere se la follia che percorre il libro è solo nell'amour fou vissuto dai protagonisti o anche nell'occhio clinico che ce lo racconta.",
+        "publisher":"Adelphi",
+        "reviews": [
+            { "author": "Loredana Bertè", "text": "Mi è piaciuto un sacco! Mi sono sentita proprio capita, mi sento anche io come la protagonista", "rating": 5 },
+            { "author": "Achille Lauro", "text": "Questo libro mi ha fatto infuriare! Solo ai pazzi può piacere, non c'è altra spiegazione!!!", "rating": 1 }
+        ],
+        "featured": false
+    },
+    {
+        "id": 7,
+        "name": "L'accademia delle grandi domande",
+        "author": "Riccardo Azzali",
+        "genre":"Romanzo",
+        "year":"2025",
+        "rating": 4,
+        "readers":"20K",
+        "cover":"/images/books/accademia-domande.jpg",
+        "summary":"Ci sono domande che accompagnano l'uomo dalla notte dei tempi, che per millenni hanno occupato le menti degli scienziati, degli artisti, dei filosofi più brillanti: l'esistenza di Dio, la definizione di verità, la differenza tra bene e male, la natura del tempo Il professor Adriano Oneili, fisico teorico, filosofo, poeta, ogni anno tiene un corso speciale, L'atomo della civetta, per sei persone con capacità intellettive e creative fuori dal comune. Non importa che siano studiosi o accademici, possono essere semplici studenti, imprenditori, artisti, professionisti, la cosa fondamentale è che abbiano voglia di mettersi in gioco, che abbiano una reale sete di conoscenza e una naturale disposizione a confrontarsi apertamente sulle idee eterne su cui l'animo umano si interroga da sempre. Quest'anno il professor Oneili ha selezionato: la giovanissima Stella, studentessa prodigio, il brillante avvocato Vincenzo, il talentuoso musicista Vittorio, la determinata attivista Caterina, l'energico imprenditore Federico e la saggia e spirituale Marina. Sei persone diversissime per età, carattere ed estrazione sociale che si trovano a dibattere giorno e notte, supervisionati, stimolati e guidati dalla bonaria e profonda intelligenza del professore, passando dalla filosofia alla scienza, da Socrate alla fisica quantistica, dall'antimateria al concetto di bellezza, da Dio alla teoria dei giochi, dall'amore alla natura delle stelle. La voglia di conoscere e comprendere il mondo, la natura e noi stessi, del resto, è come una scintilla nel buio, che per un attimo fugace può illuminare tutto ciò che la circonda. L'accademia delle grandi domande è un romanzo che riesce ad approfondire i quesiti scientifici e i dilemmi filosofici più complicati con l'accuratezza e chiarezza di un saggio, ma al tempo stesso è anche un saggio illuminista che, pagina dopo pagina, diverte e coinvolge come un appassionante romanzo.",
+        "publisher":"Mondadori",
+        "featured": false
+    },
+    {
+        "id": 8,
+        "name": "1984",
+        "author": "George Orwell",
+        "genre": "Romanzo",
+        "year": "1948",
+        "rating": 4.2,
+        "readers": "32M",
+        "cover": "/images/books/1984.jpg",
+        "summary": "Una guerra devastante ha suddiviso il pianeta in tre super-potenze, in lotta fra loro e governate da regimi totalitari: Oceania, Eurasia ed Estasia. È nella prima che Winston vive e lavora da uomo qualunque. Nell'animo, però, sembra l'unico a rifiutare la società voluta dal Partito e la filosofia imposta, che non permette tanto l'amore quanto il libero pensiero. La sua ribellione è interiore, ma col tempo si concretizza in azioni sempre più pericolose. La sua vita viene stravolta quando incontra Julia, una ragazza che solo in apparenza sembra calata nelle logiche del sistema…",
+        "publisher": "Secker & Warburg",
+        "reviews": [
+            {
+            "author": "Meryl Streep",
+            "text": "Agghiacciante e profetico",
+            "rating": 5
+            },
+            {
+            "author": "Adele",
+            "text": "Fa riflettere sul potere e la libertà",
+            "rating": 4
+            }
+        ],
+        "featured": true
+    },
+    {
+        "id": 9,
+        "name": "Il Grande Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Romanzo",
+        "year": "1925",
+        "rating": 4.3,
+        "readers": "16M",
+        "cover": "/images/books/il-grande-g.jpg",
+        "summary": "Il grande Gatsby ovvero l'età del jazz: luci, party, belle auto e vestiti da cocktail, ma dietro la tenerezza della notte si cela la sua oscurità, la sua durezza, il senso di solitudine con il quale può strangolare anche la vita più promettente. Il giovane Nick Carraway, voce narrante del romanzo, si trasferisce a New York nell'estate del 1922. Affitta una casa nella prestigiosa e sognante Long Island, brulicante di nuovi ricchi disperatamente impegnati a festeggiarsi a vicenda. Un vicino di casa colpisce Nick in modo particolare: si tratta di un misterioso Jay Gatsby, che abita in una casa smisurata e vistosa, riempiendola ogni sabato sera di invitati alle sue stravaganti feste. Eppure vive in una disperata solitudine e si innamorerà insensatamente della cugina sposata di Nick, Daisy... Il mito americano si decompone pagina dopo pagina, mantenendo tutto lo sfavillio di facciata ma mostrando anche il ventre molle della sua fragilità. Proprio come andava accadendo allo stesso Fitzgerald, ex casanova ed ex alcolizzato alle prese con il mistero di un'esistenza ormai votata alla dissoluzione finale.",
+        "publisher": "Charles Scribner's Sons",
+        "reviews": [
+            {
+            "author": "Luigi",
+            "text": "Elegante e triste al tempo stesso",
+            "rating": 5
+            },
+            {
+            "author": "Mario",
+            "text": "Racconto intenso sull’illusione del sogno americano",
+            "rating": 4
+            }
+        ],
+        "featured": true
+    },
+    {
+        "id": 10,
+        "name": "Orgoglio e pregiudizio",
+        "author": "Jane Austen",
+        "genre": "Romanzo",
+        "year": "1813",
+        "rating": 4.2,
+        "readers": "20M",
+        "cover": "/images/books/orgoglio-pregiudizio.jpg",
+        "summary": "Le cinque figlie dell'indimenticabile Mrs Bennet, tutte in cerca di un'adeguata sistemazione matrimoniale, offrono l'occasione per tracciare un quadro frizzante e profondo della vita nella campagna inglese di fine Settecento. I destini di Elizabeth, Jane, Mr Bingley e dell'ombroso Mr Darcy intrecciano un balletto irresistibile, una danza psicologica che getta luce sulla multiforme imprendibilità dell'animo umano, specie quando si trova alle prese con l'amore o qualcosa che all'amore somiglia.",
+        "publisher": "T. Egerton, Whitehall",
+        "reviews": [
+            {
+            "author": " Carlo III",
+            "text": "Un capolavoro di ironia e sentimento",
+            "rating": 5
+            },
+            {
+            "author": "Cinthia A.",
+            "text": "Ritmo lento, ma personaggi indimenticabili",
+            "rating": 4
+            }
+        ],
+        "featured": false
+    },
+    {
+        "id": 11,
+        "name": "Il signore degli anelli",
+        "author": "J. R. R. Tolkien",
+        "genre": "Fantasy",
+        "year": "1954",
+        "rating": 4.5,
+        "readers": "15M",
+        "cover": "/images/books/il-signore-degli-anelli.jpg",
+        "summary": "Composto da tre romanzi pubblicati in Gran Bretagna fra il 1954 e il 1955, Il Signore degli Anelli è uno dei più grandi cicli narrativi del XX secolo. J.R.R. Tolkien ha creato un mondo e un epos che da sempre affascinano e influenzano lettori e scrittori di tutto il mondo. La Compagnia dell'Anello si apre nella Contea, un idilliaco paese agricolo dove vivono gli Hobbit, piccoli esseri lieti, saggi e longevi. La quiete è turbata dall'arrivo dello stregone Gandalf, che convince Frodo a partire per il paese delle tenebre, Mordor, dove dovrà gettare nelle fiamme del Monte Fato il terribile Anello del Potere, giunto nelle sue mani per una serie di incredibili circostanze. Un gruppo di hobbit lo accompagna e strada facendo si aggiungono alla banda l'elfo, il nano e alcuni uomini, tutti uniti nella lotta contro il Male. La Compagnia affronta un cammino lungo e pericoloso, finché i suoi membri si disperdono, minacciati da forze oscure, mentre la meta sembra allontanarsi sempre di più.",
+        "publisher": "George Allen & Unwin",
+        "reviews": [
+            {
+            "author": "Giulia De Lellis",
+            "text": "Il miglior fantasy mai scritto",
+            "rating": 5
+            },
+            {
+            "author": "Stefano De Martino",
+            "text": "Un po’ prolisso ma incredibilmente ricco",
+            "rating": 3
+            }
+        ],
+        "featured": true
+    },
+    {
+        "id": 12,
+        "name": "Cento anni di solitudine",
+        "author": "Gabriel García Márquez",
+        "genre": "Storico",
+        "year": "1967",
+        "rating": 4.1,
+        "readers": "30K",
+        "cover": "/images/books/100.jpg",
+        "summary": "Sette generazioni di Buendía inseguono un destino ineluttabile. Con questo romanzo tumultuoso che usa i toni della favola, sorretto da un linguaggio portentoso e da una prodigiosa fantasia, Gabriel García Márquez ha saputo rifondare la realtà e, attraverso Macondo, creare un vero e proprio paradigma dell'esistenza umana. Un universo di solitudini incrociate, impenetrabili ed eterne, in cui galleggia una moltitudine di eroi.",
+        "publisher": "Editorial Sudamericana",
+        "reviews": [
+            {
+            "author": "Lili Lala",
+            "text": "Ipnotico e poetico",
+            "rating": 5
+            },
+            {
+            "author": "Renato Zero",
+            "text": "Bellissimo ma complesso da seguire",
+            "rating": 4
+            }
+        ],
+        "featured": false
+    },
+    {
+        "id": 13,
+        "name": "Il nome della rosa",
+        "author": "Umberto Eco",
+        "genre": "Giallo",
+        "year": "1980",
+        "rating": 4.24,
+        "readers": "50M",
+        "cover": "/images/books/il-nome-della-rosa.jpg",
+        "summary": "Ultima settimana del novembre 1327. Il novizio Adso da Melk accompagna in un'abbazia dell'alta Italia frate Guglielmo da Baskerville, incaricato di una sottile e imprecisa missione diplomatica. Ex inquisitore, amico di Guglielmo di Occam e di Marsilio da Padova, frate Guglielmo si trova a dover dipanare una serie di misteriosi delitti (sette in sette giorni, perpetrati nel chiuso della cinta abbaziale) che insanguinano una biblioteca labirintica e inaccessibile. Per risolvere il caso, Guglielmo dovrà decifrare indizi di ogni genere, dal comportamento dei santi a quello degli eretici, dalle scritture negromantiche al linguaggio delle erbe, da manoscritti in lingue ignote alle mosse diplomatiche degli uomini di potere. La soluzione arriverà, forse troppo tardi, in termini di giorni, forse troppo presto, in termini di secoli. La copertina dell'articolo può variare.",
+        "publisher": "Bompiani",
+        "reviews": [
+            {
+            "author": "Francesco Gabbani",
+            "text": "Un mix geniale di giallo e saggio storico",
+            "rating": 5
+            },
+            {
+            "author": "Elisabetta Canalis",
+            "text": "Affascinante ma a tratti complesso",
+            "rating": 4
+            }
+        ],
+        "featured": true
+    },
+    {
+        "id": 14,
+        "name": "Sapiens: Da animali a dèi",
+        "author": "Yuval Noah Harari",
+        "genre": "Romanzo",
+        "year": "2011",
+        "rating": 4.4,
+        "readers": "800K",
+        "cover": "/images/books/sapiens.jpg",
+        "summary": "Centomila anni fa almeno sei specie di umani abitavano la Terra. Erano animali insignificanti, il cui impatto sul pianeta non era superiore a quello di gorilla, lucciole o meduse. Oggi sulla terra c'è una sola specie di umani. Noi: Homo sapiens. E siamo i signori del pianeta. Il segreto del nostro successo è l'immaginazione. Siamo gli unici animali capaci di parlare di cose che esistono solo nelle nostre fantasie: come le divinità, le nazioni, le leggi e i soldi. Sapiens. Da animali a dèi spiega come ci siamo associati per creare città, regni e imperi; come abbiamo costruito la fiducia nei soldi, nei libri e nelle leggi; come ci siamo ritrovati schiavi della burocrazia, del consumismo e della ricerca della felicità.",
+        "publisher": "Harvill Secker",
+        "reviews": [
+            {
+            "author": "Mila",
+            "text": "Illuminante e stimolante",
+            "rating": 5
+            },
+            {
+            "author": "Shiro",
+            "text": "Interessante ma un po’ ripetitivo",
+            "rating": 4
+            }
+        ],
+        "featured": false
+    },
+    {
+        "id": 15,
+        "name": "Il giovane Holden",
+        "author": "J. D. Salinger",
+        "genre": "Narrativa",
+        "year": "1951",
+        "rating": 3.8,
+        "readers": "65M",
+        "cover": "/images/books/holden.jpg",
+        "summary": "Sono passati più di sessant'anni da quando è stato scritto, ma continuiamo a vederlo, Holden Caufield, con quell'aria scocciata, insofferente alle ipocrisie e al conformismo, lui e tutto quello che gli è cascato addosso dal giorno in cui lasciò l'Istituto Pencey con una bocciatura in tasca e nessuna voglia di farlo sapere ai suoi. La trama è tutta qui, narrata da quella voce spiccia e senza fronzoli. Ma sono i suoi pensieri, il suo umore rabbioso, ad andare in scena. Perché è arrabbiato Holden? Poiché non lo si sa con precisione, ciascuno vi ha letto la propria rabbia, ha assunto il protagonista a exemplum vitae, e ciò ne ha decretato l'immenso successo che dura tuttora. Torna, in una nuova traduzione di Matteo Colombo, il libro che ha sconvolto il corso della letteratura contemporanea influenzando l'immaginario collettivo e stilistico del Novecento.",
+        "publisher": "Little, Brown and Company",
+        "reviews": [
+            {
+            "author": "Gianni Morandi",
+            "text": "Un classico della gioventù ribelle",
+            "rating": 4
+            },
+            {
+            "author": "Ellen",
+            "text": "Intenso ma a volte ripetitivo",
+            "rating": 3
+            }
+        ],
+        "featured": false
+    },
+    {
+        "id": 16,
+        "name": "La metamorfosi",
+        "author": "Franz Kafka",
+        "genre": "Narrativa",
+        "year": "1915",
+        "rating": 3.9,
+        "readers": "25M",
+        "cover": "/images/books/la-metamorfosi.jpg",
+        "summary": "L'incubo sotterraneo e letterale di Gregor Samsa, un commesso viaggiatore che si sveglia un mattino dopo sogni agitati e si ritrova mutato in un enorme insetto. La speranza di recuperare la condizione perduta, i tentativi di adattarsi al nuovo stato, i comportamenti familiari e sociali, l'oppressione della situazione, lo svanire del tempo sono gli ingredienti con i quali l'autore elabora la trama dell'uomo contemporaneo, un essere condannato al silenzio, alla solitudine e all'insignificanza.",
+        "publisher": "Kurt Wolff Verlag",
+        "reviews": [
+            {
+            "author": "Mirta Marta",
+            "text": "Un incubo filosofico che resta impresso",
+            "rating": 5
+            },
+            {
+            "author": "Paolo Bonolis",
+            "text": "Breve ma disturbante",
+            "rating": 4
+            }
+        ],
+        "featured": false
+    },
+    {
+        "id": 17,
+        "name": "Il codice da Vinci",
+        "author": "Dan Brown",
+        "genre": "Giallo",
+        "year": "2003",
+        "rating": 3.7,
+        "readers": "80M",
+        "cover": "/images/books/il-codice-da-vinci.jpg",
+        "summary": "Quando il curatore del Louvre, Jacques Saunière, viene assassinato, l’ultimo enigma che lascia dietro di sé conduce a un nome: Robert Langdon. Il celebre professore di simbologia di Harvard viene convocato sulla scena del crimine, ma ben presto si rende conto di essere il principale sospettato. Affiancato dalla crittologa Sophie Neveu, nipote della vittima, Langdon inizia una disperata corsa contro il tempo tra Parigi e Londra. Il loro viaggio si snoda attraverso codici nascosti nelle opere di Leonardo da Vinci, antiche società segrete e un mistero legato al Santo Graal, capace di sconvolgere la storia del Cristianesimo. Ogni scoperta li avvicina alla verità, ma li espone a pericoli mortali. Un thriller denso di enigmi e colpi di scena, che ha conquistato milioni di lettori e ridefinito il genere del thriller storico.",
+        "publisher": "Doubleday",
+        "reviews": [
+            {
+            "author": "Clara Claro",
+            "text": "Avvincente e scorrevole",
+            "rating": 4
+            },
+            {
+            "author": "Federico Rico",
+            "text": "Intrigante ma un po’ forzato",
+            "rating": 3
+            }
+        ],
+        "featured": true
+    },
+    {
+        "id": 18,
+        "name": "Il piccolo principe",
+        "author": "Antoine de Saint-Exupéry",
+        "genre": "Romanzo",
+        "year": "1943",
+        "rating": 4.3,
+        "readers": "140M",
+        "cover": "/images/books/il-piccolo-principe.jpg",
+        "summary": "La vicenda del piccolo, delicato personaggio piovuto sul nostro pianeta e desideroso di tornare dalla sua amata rosa dopo avere appreso – e insegnato a milioni di lettori nel mondo – che l'essenziale è invisibile agli occhi è un fenomeno editoriale globale, un bestseller assoluto nel quale testo e immagini (i celebri disegni dell'autore, parte integrante dell'opera) si fondono in un capolavoro di saggezza e poesia.",
+        "publisher": "Reynal & Hitchcock",
+        "reviews": [
+            {
+            "author": "Milla Millosky",
+            "text": "Poesia pura, commovente",
+            "rating": 5
+            },
+            {
+            "author": "Minny Minnaj",
+            "text": "Semplice ma profondo",
+            "rating": 5
+            }
+        ],
+        "featured": false
+    },
+    {
+        "id": 19,
+        "name": "The Shining",
+        "author": "Stephen King",
+        "genre": "Horror",
+        "year": "1977",
+        "rating": 4.2,
+        "readers": "80M",
+        "cover": "/images/books/the-shining.jpg",
+        "summary": "L'Overlook, uno strano e imponente albergo che domina le alte montagne del Colorado, è stato teatro di numerosi delitti e suicidi e sembra aver assorbito forze maligne che vanno al di là di ogni comprensione umana e si manifestano soprattutto d'inverno, quando l'albergo chiude e resta isolato per la neve. Uno scrittore fallito, Jack Torrance, con la moglie Wendy e il figlio Danny di cinque anni, accetta di fare il guardiano invernale all'Overlook, ed è allora che le forze del male si scatenano con rinnovato impeto: la famiglia si trova avvolta ben presto in un'atmosfera sinistra. Dinanzi a Danny, dotato di un potere extrasensoriale, si materializzano gli orribili fatti accaduti nelle stanze dell'albergo, ma mentre il bambino si oppone con forza a insidie e presenze, il padre ne cade vittima.",
+        "publisher": "Doubleday",
+        "reviews": [
+            {
+            "author": "Ed Warren",
+            "text": "Un incubo che ti accompagna per giorni",
+            "rating": 5
+            },
+            {
+            "author": "Lorraine Warren",
+            "text": "Molto più profondo del film",
+            "rating": 4
+            }
+        ],
+        "featured": true
+    },
+    {
+        "id": 20,
+        "name": "Il vecchio e il mare",
+        "author": "Ernest Hemingway",
+        "genre": "Narrativa",
+        "year": "1952",
+        "rating": 3.8,
+        "readers": "15M",
+        "cover": "/images/books/vecchio-mare.jpg",
+        "summary": "Per ottantaquattro giorni non è riuscito a pescare nulla: eppure, il vecchio Santiago raccoglie le forze e riprende il mare per una nuova battuta di pesca che ha il sapore di un'iniziazione. Nella disperata caccia a un enorme marlin, che per due giorni e due notti trascina la sua barca nell'oceano; nella lotta quasi a mani nude contro gli squali che un pezzo alla volta gli strappano la preda, lasciandogli solo il simbolo della vittoria e della maledizione finalmente sconfitta, Santiago stabilisce, forse per la prima volta, una vera fratellanza con le forze incontenibili della natura. E, soprattutto, trova dentro di sé il segno e la presenza del proprio coraggio, la giustificazione di una vita intera.",
+        "publisher": "Charles Scribner's Sons",
+        "reviews": [
+            {
+            "author": "Giorgio Armani",
+            "text": "Semplice ma di una forza incredibile",
+            "rating": 5
+            },
+            {
+            "author": "Sara Toscano",
+            "text": "Intenso ma asciutto nello stile",
+            "rating": 4
+            }
+        ],
+        "featured": false
+    },
+    {
+        "id": 21,
+        "name": "Moby Dick",
+        "author": "Herman Melville",
+        "genre": "Romanzo",
+        "year": "1851",
+        "rating": 3.9,
+        "readers": "20M",
+        "cover": "/images/books/moby-dick.jpg",
+        "summary": "Un grande classico che narra la storia della baleniera Pequod e del suo viaggio all'inseguimento di Moby Dick, la mitica balena bianca verso la quale il capitano Achab nutre un'incontrollabile sete di vendetta. Attraverso la voce del marinaio Ismaele, Melville alterna la descrizione di scene di vita quotidiana sulla baleniera a profonde riflessioni sul destino, sulla vita e sul complicato rapporto tra uomo e natura.",
+        "publisher": "Harper & Brothers",
+        "reviews": [
+            { "author": "Giulia Galla", "text": "Epico e complesso", "rating": 4 },
+            { "author": "Roberto Raballa", "text": "Un po' pesante ma grandioso", "rating": 3 }
+        ],
+        "featured": false
+    },
+    {
+        "id": 22,
+        "name": "Delitto e castigo",
+        "author": "Fëdor Dostoevskij",
+        "genre": "Romanzo",
+        "year": "1866",
+        "rating": 4.2,
+        "readers": "15M",
+        "cover": "/images/books/delitto-castigo.jpg",
+        "summary": "Raskol’nikov è uno studente che, mosso tanto della miseria quanto dall’orgoglio intellettuale, si risolve a progettare e a compiere l’omicidio di una vecchia usuraia. I rimorsi e i dubbi legati a questo atto assoluto minano le sue convinzioni filosofiche e lo fanno precipitare in uno stato allucinato e febbrile. In una Pietroburgo afosa e inquieta, il giovane vaga senza requie, dando inizio a un lungo percorso di espiazione che trova redenzione nell’accettazione e nell’amore di Sonja, incarnazione di una bontà incondizionata.",
+        "publisher": "Il Messaggero Russo",
+        "reviews": [
+            { "author": "Serena Sereè", "text": "Intenso e filosofico", "rating": 5 },
+            { "author": "Matteo Luca", "text": "Lento ma profondissimo", "rating": 4 }
+        ],
+        "featured": false
+    },
+    {
+        "id": 23,
+        "name": "Harry Potter e la pietra filosofale",
+        "author": "J. K. Rowling",
+        "genre": "Fantasy",
+        "year": "1997",
+        "rating": 4.5,
+        "readers": "120M",
+        "cover": "/images/books/hp-pietra.jpg",
+        "summary": "Harry Potter è un predestinato: ha una cicatrice a forma di saetta sulla fronte e provoca strani fenomeni, come quello di farsi ricrescere in una notte i capelli inesorabilmente tagliati dai perfidi zii. Ma solo in occasione del suo undicesimo compleanno gli si rivelano la sua natura e il suo destino, e il mondo misterioso cui di diritto appartiene.",
+        "publisher": "Bloomsbury",
+        "reviews": [
+            { "author": "Lorenzo Enzo", "text": "Magico e indimenticabile", "rating": 5 },
+            { "author": "Anna Tatangelo", "text": "Per tutte le età", "rating": 5 }
+        ],
+        "featured": false
+    },
+    {
+        "id": 24,
+        "name": "I promessi sposi",
+        "author": "Alessandro Manzoni",
+        "genre": "Storico",
+        "year": "1827",
+        "rating": 3.7,
+        "readers": "10M",
+        "cover": "/images/books/promessi-sposi.jpg",
+        "summary": "“I promessi sposi”, ambientato in Lombardia durante il dominio spagnolo tra 1628 e il 1630, anno di massima diffusione della peste, è ritenuto il più famoso e il più importante romanzo storico italiano. Basato su una rigorosa ricerca storica e linguistica, è anche considerato il passaggio fondamentale per la nascita della lingua italiana. Ad animare l’affresco di quel periodo c’è la vicenda amorosa degli umili Renzo e Lucia. Il loro matrimonio è ormai prossimo ma don Rodrigo, signorotto dei dintorni che desidera Lucia per sé, intralcia la felicità dei due giovani impedendo il matrimonio con la forza. «Questo matrimonio non s’ha da fare, né domani, né mai», dice uno dei bravi di don Rodrigo allo spaventatissimo don Abbondio. Tutti i personaggi si muovono all’interno di un contesto sociale e politico in cui gli umili sono vittime dei potenti ma in cui la fede nella divina Provvidenza, intesa come la mano di Dio che interviene nelle vicende umane, aiuta ad andare avanti permettendo di accettare le difficoltà.",
+        "publisher": "Ferrario",
+        "reviews": [
+            { "author": "Chiara Scura", "text": "Fondamentale nella letteratura italiana", "rating": 4 },
+            { "author": "Diego Mego", "text": "Un po' datato nello stile", "rating": 3 }
+        ],
+        "featured": false
+    },
+    {
+        "id": 25,
+        "name": "Don Chisciotte della Mancia",
+        "author": "Miguel de Cervantes",
+        "genre": "Narrativa",
+        "year": "1605",
+        "rating": 3.9,
+        "readers": "25M",
+        "cover": "/images/books/don-c.jpg",
+        "summary": "Don Chisciotte è il simbolo della cieca fede in un ideale che resiste a qualunque oltraggio, il suo scudiero Sancho invece l'allegoria vivente del buon senso, della concretezza anche ingrata del reale. Ma il romanzo di Cervantes si presenta come opera ben più stratificata e complessa, impossibile da costringere nei limiti di questa stilizzazione unilaterale: è insieme una galleria dei generi letterari del suo tempo, dalla poesia d'amore al romanzo picaresco alla novella pastorale; lo specchio del controverso passaggio dagli ideali di armonia e misura rinascimentali alla follia inventiva del Barocco; ma anche e soprattutto una riflessione senza tempo sulla natura umana e sulle sue ineliminabili contraddizioni.",
+        "publisher": "Francisco de Robles",
+        "reviews": [
+            { "author": "Alessio Alassio", "text": "Geniale e ironico", "rating": 5 },
+            { "author": "Valeria Marini", "text": "Un po' lungo", "rating": 3 }
+        ],
+        "featured": false
+    },
+    {
+        "id": 26,
+        "name": "Frankenstein",
+        "author": "Mary Shelley",
+        "genre": "Horror",
+        "year": "1818",
+        "rating": 4,
+        "readers": "10M",
+        "cover": "/images/books/frank.jpg",
+        "summary": "Nell'estate del 1816 un gruppo di poeti e letterati, guidati dal già celebre Lord Byron, si trovò isolato per il maltempo in una villa sul lago di Ginevra. Spinto dalla noia e suggestionato dalla lettura di una storia di fantasmi, Byron propose a tutti i suoi amici di comporre ciascuno un racconto che fosse il più terrificante possibile. Nacque così Frankenstein, o il moderno Prometeo, scritto dalla diciannovenne Mary Wollstonecraft Godwin, che poco più tardi avrebbe sposato Percy Bysshe Shelley. Colpita dall'ipotesi, ventilata dalla scienza di quegli anni, che grazie al galvanismo si potesse ridare la vita ai cadaveri, la giovane creò la storia dello scienziato Victor Frankenstein, che riesce ad animare una mostruosa creatura ma paga il risultato scientifico con la perdita di tutti gli affetti.",
+        "publisher": "Lackington, Hughes, Harding, Mavor & Jones",
+        "reviews": [
+            { "author": "Francesca Michelin", "text": "Innovativo e tragico", "rating": 5 },
+            { "author": "Damiano Maneskin", "text": "Non un horror tradizionale", "rating": 4 }
+        ],
+        "featured": false
+    },
+    {
+        "id": 27,
+        "name": "Dracula",
+        "author": "Bram Stoker",
+        "genre": "Horror",
+        "year": "1897",
+        "rating": 3.9,
+        "readers": "12M",
+        "cover": "/images/books/dracula.jpg",
+        "summary": "Mi stava vicino, lo vedevo da sopra la spalla, ma nello specchio non si rifletteva! In Transilvania per concludere la vendita di una casa londinese al Conte Dracula, discendente di un'antichissima casata locale, il giovane agente immobiliare Jonathan Harker scopre che il suo cliente è una creatura di mistero e orrore...",
+        "publisher": "Archibald Constable and Company",
+        "reviews": [
+            { "author": "Michelle Hunziker", "text": "Classico del gotico", "rating": 5 },
+            { "author": "Mario Rossi", "text": "Atmosfera cupa e coinvolgente", "rating": 4 }
+        ],
+        "featured": false
+    },
+    {
+        "id": 28,
+        "name": "Il ritratto di Dorian Gray",
+        "author": "Oscar Wilde",
+        "genre": "Romanzo",
+        "year": "1890",
+        "rating": 4.1,
+        "readers": "15M",
+        "cover": "/images/books/ritratto-dg.jpg",
+        "summary": "Dorian Gray, un giovane di straordinaria bellezza, si è fatto fare un ritratto da un pittore. Ossessionato dalla paura della vecchiaia, ottiene, con un sortilegio, che ogni segno che il tempo dovrebbe lasciare sul suo viso, compaia invece solo sul ritratto. Avido di piacere, si abbandona agli eccessi più sfrenati, mantenendo intatta la freschezza e la perfezione del suo viso. Poiché Hallward, il pittore, gli rimprovera tanta vergogna, lo uccide. A questo punto il ritratto diventa per Dorian un atto d'accusa e in un impeto di disperazione lo squarcia con una pugnalata. Ma è lui a cadere morto: il ritratto torna a raffigurare il giovane bello e puro di un tempo e a terra giace un vecchio segnato dal vizio.",
+        "publisher": "Lippincott's Monthly Magazine",
+        "reviews": [
+            { "author": "Andrea Stella", "text": "Geniale e inquietante", "rating": 5 },
+            { "author": "Lewis Hamilton", "text": "Molto filosofico", "rating": 4 }
+        ],
+        "featured": true
+    },
+    {
+        "id": 29,
+        "name": "Le avventure di Sherlock Holmes",
+        "author": "Arthur Conan Doyle",
+        "genre": "Giallo",
+        "year": "1892",
+        "rating": 4.3,
+        "readers": "20M",
+        "cover": "/images/books/sherlock.jpg",
+        "summary": "Una raccolta di dodici racconti che vedono il celebre detective Sherlock Holmes e l’amico Watson risolvere intricati casi.",
+        "publisher": "George Newnes Ltd",
+        "reviews": [
+            { "author": "Marco Polo", "text": "Detective story allo stato puro", "rating": 5 },
+            { "author": "Martina Marta", "text": "Sempre brillante", "rating": 5 }
+        ],
+        "featured": false
+    },
+    {
+        "id": 30,
+        "name": "La fattoria degli animali",
+        "author": "George Orwell",
+        "genre": "Romanzo",
+        "year": "1945",
+        "rating": 4.2,
+        "readers": "20M",
+        "cover": "/images/books/fattoria.jpg",
+        "summary": "Gli animali soppiantano gli umani, espropriando la fattoria in cui lavorano sotto continui maltrattamenti. Dopo averne cacciato gli uomini-padroni la gestiscono autonomamente, fino a quando, però, lo spirito rivoluzionario non sarà tradito e verranno a imporsi altre forme di sfruttamento tra di loro.",
+        "publisher": "Secker & Warburg",
+        "reviews": [
+            { "author": "Silvia Salvia", "text": "Semplice ma potentissimo", "rating": 5 },
+            { "author": "Enrico Papi", "text": "Un grande classico allegorico", "rating": 4 }
+        ],
+        "featured": false
+    }
+
+]
