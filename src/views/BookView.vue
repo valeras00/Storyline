@@ -56,7 +56,7 @@
             <BookReview v-for="(review, index) in book.reviews" :key="index" :review="review"></BookReview>
           </div>
           <div v-else>
-            <p class="text-secondary mb-5">Non ci sono recensioni</p>
+            <p class="text-secondary mb-5">Non ci sono ancora recensioni</p>
           </div>
 
           <h4 class="mb-4">Scrivi una recensione</h4>
