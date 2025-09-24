@@ -55,12 +55,11 @@
 									<select v-model="book.genre" class="form-control" id="book_genre">
 										<option value="">Seleziona un genere</option>
 										<option value="Narrativa">Narrativa</option>
-										<option value="Avventura">Avventura</option>
+										<option value="Giallo">Giallo</option>
 										<option value="Fantasy">Fantasy</option>
-										<option value="Mistery">Mistery</option>
+										<option value="Storico">Storico</option>
 										<option value="Romanzo">Romanzo</option>
-										<option value="Gotico">Gotico</option>
-										<option value="Scientifico">Scientifico</option>
+										<option value="Horror">Horror</option>
 									</select>
 									<p v-if="book.errors.genre" class="text-danger">Campo obbligatorio</p>
 								</div>

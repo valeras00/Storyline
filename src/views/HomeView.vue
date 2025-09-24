@@ -96,7 +96,7 @@
               <p class="mb-0">Storyline raccoglie migliaia di titoli, dai classici intramontabili alle ultime novità. Puoi valutarli, crearne una collezione personale e scoprire in tempo reale cosa sta leggendo la community. Perché ogni libro merita di essere raccontato.</p>
             </div>
             <div class="col-md-4 order-md-1">
-              <img class="img-fluid" src="/images/home-storyline.png">
+              <img class="img-fluid" src="/images/home-storyline.jpg">
             </div>
           </div>
         </div>
